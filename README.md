@@ -1,5 +1,9 @@
 # Taxi-out time prediction for the PRC Data Challenge 2026
 
+> **This repository is the frozen competition release (final phase, 14 October 2026).** The project continued after the
+> challenge closed, with ADS-B ground tracks as per-flight features in a second-stage corrector (15 to 30 s RMSE on held-out
+> months). Current code and results: [BlendiFevziu/prc2026-taxi-out-adsb](https://github.com/BlendiFevziu/prc2026-taxi-out-adsb).
+
 Team **upbeat-goblin**. The challenge, run by the EUROCONTROL Performance Review Commission with the
 OpenSky Network, asks for the taxi-out time of departures at ten European airports (EDDF, EDDM,
 EGLL, EHAM, LEBL, LEMD, LFPG, LIRF, LSZH, LTFM), learned from the 2025 movements and scored by
